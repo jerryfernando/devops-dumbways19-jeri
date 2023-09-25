@@ -1,5 +1,5 @@
 
-# GATWAY NGINX
+# GATEWAY NGINX
 [ Gateway ]
 
 - Installasi nginx di server gateway
@@ -23,7 +23,7 @@ sudo apt update
 
 
 ```bash
-  sudo apt update
+  sudo apt install nginx
 ```
 
 ### cek status
@@ -54,7 +54,7 @@ server {
     server_name api.jeri.studentdumbways.my.id;
 
     location / {
-             proxy_pass http://192.168.234.128:5000;
+             proxy_pass http://192.168.234.128:3000;
     }
 }
 ```
@@ -96,5 +96,5 @@ server {
 ### jalankan domain
 ```bash
   https://jeri.studentdumbways.my.id/login
-  https://api.wilson.studentdumbways.my.id/login
+  https://api.jeri.studentdumbways.my.id/login
 ```
