@@ -67,11 +67,11 @@ server {
   sudo systemctl reload nginx
 ```
 ```bash
-  http://wilson.studentdumbways.my.id/login
+  http://jeri.studentdumbways.my.id/login
 ```
 
 ```bash
-  http://api.wilson.studentdumbways.my.id/login
+  http://api.jeri.studentdumbways.my.id/login
 ```
 ### ssl mengunakan cartbot (https// menjadi https//)
 ```bash
