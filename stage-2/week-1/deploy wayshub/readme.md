@@ -202,3 +202,10 @@ npm install -g pm2
 ```bash
   pm2 start
 ```
+```bash
+  http://jeri.studentdumbways.my.id/login
+```
+
+```bash
+  http://api.jeri.studentdumbways.my.id/login
+```
