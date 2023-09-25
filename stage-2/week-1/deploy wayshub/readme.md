@@ -8,6 +8,31 @@ Tasks :
     - Install dan konfigurasi database MySQL (mysql_secure_installation)
     - Di wayshub-frontend, rubah isi BaseURL file src/config/api.js menggunakan domain yang sudah disediakan (api.<nama>.studentdumbways.my.id)
     - Di wayshub-backend, rubah isi konfigurasi database MySQL di config/config.json sesuai dengan user pass kalian, dengan nama database "db-wayshub"
+
+## install nodejs versi 14.x
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+
+```
+```bash
+exec bash
+
+```
+```bash
+nvm install 14
+
+```
+## clone backend dan frontend
+```bash
+git clone https://github.com/dumbwaysdev/wayshub-backend.git
+
+```
+```bash
+git clone https://github.com/dumbwaysdev/wayshub-frontend.git
+```
+
+
+
 ## deploy aplikasinya menggunakan PM2
 
 
