@@ -3,3 +3,4 @@
 ![2](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/a0edf958-ddf3-4879-8680-24503b58045e)
 ![4](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/3e3d0e98-cac4-4dbf-845e-7db48922a842)
 ![5](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/08481e36-52d9-4f56-b848-fc45a7bfdb85)
+![6](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/dd4318ea-bdcc-4743-9a4e-32042243b48c)
