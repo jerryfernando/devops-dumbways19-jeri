@@ -1,0 +1,5 @@
+![1](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/b98cc5fd-817d-4054-b651-f5250eb41db1)
+![2](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/a0edf958-ddf3-4879-8680-24503b58045e)
+![3 m](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/3a4b73a6-95f8-4932-b719-73c8935d910a)
+![4](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/3e3d0e98-cac4-4dbf-845e-7db48922a842)
+![5](https://github.com/jerryfernando/devops-dumbways19-jeri/assets/23428256/08481e36-52d9-4f56-b848-fc45a7bfdb85)
